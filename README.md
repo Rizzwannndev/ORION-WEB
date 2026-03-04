@@ -6,11 +6,10 @@ A modern landing page featuring an interactive hover unmasking effect, built wit
 
 ![Project Demo](gif.gif)
 
-> Add your GIF here to showcase the hover unmasking effect in action
 
 ## 🌐 Live Website
 
-Visit the live website: [Launch Project](https://delicate-balance-089912.framer.app/) <!-- Replace # with your website URL -->
+Visit the live website: [Launch Project](https://delicate-balance-089912.framer.app/){target="_blank"}
 
 ## 🎨 Project Overview
 
