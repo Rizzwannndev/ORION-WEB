@@ -9,7 +9,7 @@ A modern landing page featuring an interactive hover unmasking effect, built wit
 
 ## 🌐 Live Website
 
-Visit the live website: [Launch Project](https://delicate-balance-089912.framer.app/){target="_blank"}
+Visit the live website: [Launch Project](https://delicate-balance-089912.framer.app/)
 
 ## 🎨 Project Overview
 
